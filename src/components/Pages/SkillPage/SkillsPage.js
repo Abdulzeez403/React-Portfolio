@@ -5,7 +5,7 @@ import { BsServer,  BsCodeSlash} from "react-icons/bs";
 
 const SkillPage = () => {
  return ( 
-  <div className="container mt-5 mb-5">
+  <div className="container mt-5 mb-5" id="Stack">
    <div classNam="">
    <h4 className="text-white text-center h3 ">Skills</h4>
    <p className="text-white text-opacity-50 text-center">Get to know my stack!</p>

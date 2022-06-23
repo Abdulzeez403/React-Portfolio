@@ -2,7 +2,7 @@ import {Form, Button, FloatingLabel} from "react-bootstrap";
 import {RiSendPlaneFill} from "react-icons/ri"
 const ContactPage = () => {
  return ( 
-  <div className="container">
+  <div className="container" >
    <br />
    <Form className=" col-lg-6 m-lg-auto">
   <Form.Group className="mb-3" controlId="formBasicEmail">

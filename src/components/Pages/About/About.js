@@ -8,7 +8,7 @@ import { FaDownload} from "react-icons/fa";
 
 const AboutPage = () => {
  return ( 
-<div className="container p-5">
+<div className="container p-5" id="About">
 <div classNam="">
   <h4 className="text-white text-center h3 ">About Me</h4>
   <p className="text-white text-opacity-50 text-center">Get to know me!</p>

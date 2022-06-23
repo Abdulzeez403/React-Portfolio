@@ -5,7 +5,7 @@ import ContactPage from "../contact/contactPage";
 
 const FooterPage = () => {
  return ( 
-  <div className="container p-5 m-auto">
+  <div className="container p-5 m-auto"  id="Contact">
    <div classNam="">
   <h4 className="text-white text-center h2 ">Contact</h4>
   <p className="text-white text-opacity-50 text-center">lets talk a business</p>
